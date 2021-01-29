@@ -20,7 +20,7 @@ Welcome to my profile!
 <img width="200" alt="My profile picture as a cartoon" src="https://github.com/MiguelArgentina/MiguelArgentina/blob/main/TucuToon.jpg">
 
 
-I am Miguel Gomez, a developer wanna be from Argentina, learning new things all the time, amazed with new technologies and hoping to make some commits to this world :earth_americas: we live in! :grin:
+I am Miguel Gomez, a developer wanna be from Argentina, currently living @ Buenos Aires but originally from Tucuman. I don´t get tired of learning new things all the time, being amazed with new technologies and I hope I can make some commits to this world &nbsp; &nbsp; :earth_americas: &nbsp; &nbsp; we live in! :grin:
 
 Basketball &nbsp; :basketball: &nbsp; fan, techie, a little nerd maybe...
 
@@ -28,4 +28,10 @@ What am I doing right now?
 
 - :books: &nbsp; I’m currently learning how to be a full-stack developer &nbsp; &nbsp;:computer: &nbsp; &nbsp; at Microverse!
 
+<img width="100" alt="A picture of my home's desktop" src="https://github.com/MiguelArgentina/MiguelArgentina/blob/main/screenshot-desktop.jpg">
+
 - :telephone: &nbsp; How to reach me: Well, you can find me at &nbsp; &nbsp; [:email:](miguelgomez66@gmail.com) &nbsp; &nbsp; or maybe in &nbsp; &nbsp; [:bird:](https://twitter.com/Qete_arg)
+
+Oh, in case you wonder how Tucuman looks like, taka look:
+
+<img width="600" alt="A picture of San Javier mountain at Tucuman province, in Argentina" src="https://github.com/MiguelArgentina/MiguelArgentina/blob/main/tucuman.jpg">
