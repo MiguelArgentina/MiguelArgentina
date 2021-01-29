@@ -22,10 +22,10 @@ Welcome to my profile!
 
 I am Miguel Gomez, a developer wanna be from Argentina, learning new things all the time, amazed with new technologies and hoping to make some commits to this world :earth_americas: we live in! :grin:
 
-Basketball :basketball: fan, techie, a little nerd maybe...
+Basketball &nbsp; :basketball: &nbsp; fan, techie, a little nerd maybe...
 
 What am I doing right now?
 
-- :books: &nbsp; I’m currently learning how to be a full-stack developer :computer: at Microverse!
+- :books: &nbsp; I’m currently learning how to be a full-stack developer &nbsp; &nbsp;:computer: &nbsp; &nbsp; at Microverse!
 
 - :telephone: &nbsp; How to reach me: Well, you can find me at &nbsp; &nbsp; [:email:](miguelgomez66@gmail.com) &nbsp; &nbsp; or maybe in &nbsp; &nbsp; [:bird:](https://twitter.com/Qete_arg)
