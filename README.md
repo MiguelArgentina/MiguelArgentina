@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="1260" alt="Screen Shot 2021-01-20 at 11 34 26 PM" src="https://github.com/MiguelArgentina/MiguelArgentina/blob/main/screenshot-desktop.jpg">
+<img width="1000" alt="Screen Shot 2021-01-20 at 11 34 26 PM" src="https://github.com/MiguelArgentina/MiguelArgentina/blob/main/screenshot-desktop.jpg">
 
