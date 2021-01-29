@@ -30,6 +30,7 @@ What am I doing right now?
 
 <img align="left" width="170" alt="A picture of my home's desktop" src="https://github.com/MiguelArgentina/MiguelArgentina/blob/main/screenshot-desktop.jpg">
 <div style="clear:both"></div>
+
 - :telephone: &nbsp; How to reach me: Well, you can find me at &nbsp; &nbsp; [:email:](miguelgomez66@gmail.com) &nbsp; &nbsp; or maybe in &nbsp; &nbsp; [:bird:](https://twitter.com/Qete_arg)
 
 Oh, in case you wonder how Tucuman looks like, taka look:
