@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋
-
-
-<img width="400" alt="My profile picture as a cartoon" src="https://github.com/MiguelArgentina/MiguelArgentina/blob/main/TucuToon.jpg">
 
 Welcome to my profile!
+
+<img width="200" alt="My profile picture as a cartoon" src="https://github.com/MiguelArgentina/MiguelArgentina/blob/main/TucuToon.jpg">
+
 
 I am Miguel Gomez, a developer wanna be from Argentina, learning new things all the time, amazed with new technologies and hoping to make some commits to this world :earth_americas: we live in! :grin:
 
@@ -27,6 +26,6 @@ Basketball :basketball: fan, techie, a little nerd maybe...
 
 What am I doing right now?
 
-- 🌱 I’m currently learning how to be a full-stack developer at Microverse!
+- :books: I’m currently learning how to be a full-stack developer :computer: at Microverse!
 
-- 📫 How to reach me: Well, you can find me at [:email:](miguelgomez66@gmail.com) or maybe in [:bird:](https://twitter.com/Qete_arg)
+- :telephone: How to reach me: Well, you can find me at  [:email:](miguelgomez66@gmail.com)  or maybe in  [:bird:](https://twitter.com/Qete_arg)
