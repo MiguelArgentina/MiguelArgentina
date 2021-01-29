@@ -20,7 +20,7 @@ Welcome to my profile!
 <img width="200" alt="My profile picture as a cartoon" src="https://github.com/MiguelArgentina/MiguelArgentina/blob/main/TucuToon.jpg">
 
 
-I am Miguel Gomez, a developer wanna be from Argentina, currently living @ Buenos Aires but originally from Tucuman. I don´t get tired of learning new things all the time, being amazed with new technologies and I hope I can make some commits to this world &nbsp; &nbsp; :earth_americas: &nbsp; &nbsp; we live in! :grin:
+I am Miguel Gomez, a developer wanna be from Argentina, currently living @ [Buenos Aires](https://en.wikipedia.org/wiki/Buenos_Aires) but originally from [Tucuman](https://en.wikipedia.org/wiki/Tucum%C3%A1n_Province). I don´t get tired of learning new things all the time, being amazed with new technologies and I hope I can make some commits to this world &nbsp; &nbsp; :earth_americas: &nbsp; &nbsp; we live in! :grin:
 
 Basketball &nbsp; :basketball: &nbsp; fan, techie, a little nerd maybe...
 
