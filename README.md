@@ -28,7 +28,7 @@ What am I doing right now?
 
 - :books: &nbsp; I’m currently learning how to be a full-stack developer &nbsp; &nbsp;:computer: &nbsp; &nbsp; at Microverse!
 
-<img style="display:block" align="left" width="170" alt="A picture of my home's desktop" src="https://github.com/MiguelArgentina/MiguelArgentina/blob/main/screenshot-desktop.jpg">
+<img width="170" alt="A picture of my home's desktop" src="https://github.com/MiguelArgentina/MiguelArgentina/blob/main/screenshot-desktop.jpg">
 
 
 - :telephone: &nbsp; How to reach me: Well, you can find me at &nbsp; &nbsp; [:email:](miguelgomez66@gmail.com) &nbsp; &nbsp; or maybe in &nbsp; &nbsp; [:bird:](https://twitter.com/Qete_arg)
