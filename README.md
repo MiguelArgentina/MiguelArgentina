@@ -26,6 +26,6 @@ Basketball :basketball: fan, techie, a little nerd maybe...
 
 What am I doing right now?
 
-- :books: I’m currently learning how to be a full-stack developer :computer: at Microverse!
+- :books: &nbsp; I’m currently learning how to be a full-stack developer :computer: at Microverse!
 
-- :telephone: How to reach me: Well, you can find me at  [:email:](miguelgomez66@gmail.com)  or maybe in  [:bird:](https://twitter.com/Qete_arg)
+- :telephone: &nbsp; How to reach me: Well, you can find me at &nbsp; &nbsp; [:email:](miguelgomez66@gmail.com) &nbsp; &nbsp; or maybe in &nbsp; &nbsp; [:bird:](https://twitter.com/Qete_arg)
