@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my profile!
+<p align="left">Welcome to my profile!</p>
 
 <p align="right"><img align="right" width="200" alt="My profile picture as a cartoon" src="https://github.com/MiguelArgentina/MiguelArgentina/blob/main/TucuToon.jpg"></p>
 
