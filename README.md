@@ -33,6 +33,8 @@ What am I doing right now?
 
 - :telephone: &nbsp; How to reach me: Well, you can find me at &nbsp; &nbsp; [:email:](miguelgomez66@gmail.com) &nbsp; &nbsp; or maybe in &nbsp; &nbsp; [:bird:](https://twitter.com/Qete_arg)
 
+- 😄 &nbsp; Looking for a committed and responsible developer? I'm openly listening to job offers!
+
 Oh, in case you wonder how Tucuman looks like, take a look:
 
 <img align="center" width="800" alt="A picture of San Javier mountain at Tucuman province, in Argentina" src="https://github.com/MiguelArgentina/MiguelArgentina/blob/main/tucuman.jpg">
